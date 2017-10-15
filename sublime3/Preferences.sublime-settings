@@ -1,0 +1,13 @@
+{
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"font_face": "Noto Sans Mono",
+    "font_size": 10,
+    "translate_tabs_to_spaces": true,
+    "word_wrap": "true",
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "update_check": false,
+}
