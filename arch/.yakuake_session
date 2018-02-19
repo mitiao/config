@@ -1,0 +1,17 @@
+[Tab 1]
+active=
+cmd=ssh probook@10.67.18.160
+cwd=/home/probook
+title=Tap Worker
+
+[Tab 2]
+active=
+cmd=ssh root@10.67.17.71
+cwd=/root
+title=openQA WebUI
+
+[Tab 3]
+active=1
+cmd=tmux attach
+cwd=/home/mitiao
+title=LOCALHOST
