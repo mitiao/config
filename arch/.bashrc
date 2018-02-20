@@ -39,4 +39,4 @@ export PS1="\[\e[36;1m\]\u\[\e[0m\]@\[\e[33;1m\]\h\[\e[0m\]:\[\e[31;1m\]\w\[\e[0
 export EDITOR="vim"
 complete -cf sudo
 
-. /home/mitiao/Git_repos/z/z.sh
+. /home/user/Git_repos/z/z.sh

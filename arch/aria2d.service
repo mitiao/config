@@ -1,0 +1,9 @@
+[Unit]
+Description=Aria2 Daemon
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/aria2c --enable-rpc --rpc-listen-all --rpc-allow-origin-all --rpc-secret=secret -c --dir /home/user/Public
+
+[Install]
+WantedBy=default.target
